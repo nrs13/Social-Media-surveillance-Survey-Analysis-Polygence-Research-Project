@@ -21,23 +21,3 @@ The significant gender difference in worry levels (p = .007, V = 0.228) represen
 The absence of age-related differences in privacy concerns challenges assumptions about generational privacy attitudes. Young adults and adolescents showed similar worry patterns, suggesting that privacy concerns may be more universal across age groups than previously thought, at least within this younger demographic.
 
 Study limitations include the cross-sectional design preventing causal inferences, potential self-selection bias toward privacy-conscious participants, and the relatively homogeneous age distribution limiting generalizability. The survey instrument's reliance on self-reported behaviors may introduce social desirability bias, and the convenience sampling method may not represent broader populations.
-
-RECOMMENDATIONS
-
-1. **Policy Development**: Policymakers should recognize young users' sophisticated privacy concerns and develop age-appropriate privacy protections that respect their autonomy while providing meaningful safeguards.
-
-2. **Platform Design**: Social media companies should implement more transparent privacy controls and clearer data usage policies, acknowledging that users across gender and age groups express significant privacy concerns.
-
-3. **Digital Literacy**: Educational programs should focus on empowering users with practical privacy management skills rather than assuming indifference to privacy issues.
-
-4. **Future Research**: Longitudinal studies examining the relationship between privacy concerns and actual behavioral changes, with more diverse age ranges and cultural contexts, would strengthen understanding of digital privacy attitudes.
-
-LIMITATIONS
-
-This study's limitations include potential sampling bias toward privacy-conscious individuals, cross-sectional design constraints, and limited demographic diversity. The survey instrument may not capture the full complexity of privacy decision-making processes.
-
-SUGGESTED ABSTRACTS
-
-Results: "Analysis of 127 young social media users revealed high surveillance awareness (72.4%) and deletion intentions (68.5%), with significant gender differences in privacy concerns (p = .007)."
-
-Implications: "Young social media users demonstrate sophisticated privacy concerns and protective behaviors, challenging assumptions about generational indifference to digital privacy and supporting targeted policy interventions."
