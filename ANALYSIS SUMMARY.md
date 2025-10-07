@@ -1,9 +1,9 @@
-# Social Media Privacy Survey Analysis - Executive Summary
+Executive Summary
 
-## 🎯 Project Overview
-Complete quantitative analysis of 127 survey responses examining social media privacy perceptions and behavioral intentions. All deliverables created as requested with academic rigor and APA standards.
+## Project Overview
+Complete quantitative analysis of 127 survey responses examining social media privacy perceptions and behavioral intentions.
 
-## 📊 Key Findings
+## Key Findings
 
 ### Demographics
 - **N = 127** participants
@@ -16,29 +16,29 @@ Complete quantitative analysis of 127 survey responses examining social media pr
 - **68.5%** have deleted or are considering deleting social media platforms
 
 ### Statistical Results
-1. **Gender × Worry**: χ²(8) = 21.091, **p = .007**, V = 0.228 ⭐ **SIGNIFICANT**
+1. **Gender × Worry**: χ²(8) = 21.091, **p = .007**, V = 0.228  **SIGNIFICANT**
 2. **Worry × Delete Intention**: χ²(12) = 19.027, p = .088, V = 0.137 (approaching significance)
 3. **Age × Worry**: χ²(24) = 21.656, p = .600, V = 0.000 (not significant)
 
-## 📁 Deliverables Created
+## 📁 Deliverables 
 
-### ✅ All Required Files
-- **`analysis_notebook.py`** - Complete reproducible analysis script
-- **`cleaned_responses.csv`** - Processed dataset (N=127)
-- **`results_and_discussion.txt`** - Academic Results (250 words) & Discussion (450 words)
-- **`apa_tables.md`** - APA-formatted statistical tables
-- **`tables_main_crosstab.csv`** - Principal cross-tabulation table
+### All Required Files
+- **`analysis_notebook.py`** 
+- **`cleaned_responses.csv`**
+- **`results_and_discussion.txt`** 
+- **`apa_tables.md`**
+- **`tables_main_crosstab.csv`**
 
-### ✅ High-Quality Visualizations (PNG, 300 DPI)
+### High-Quality Visualizations (PNG, 300 DPI)
 - **`overview_distributions.png`** - Six-panel overview of all variables
 - **`delete_by_worry.png`** - Cross-tabulation with statistical annotations
 - **`worry_by_demographics.png`** - Demographic breakdowns
 
-### ✅ Documentation
+### Documentation
 - **`README.md`** - Complete project documentation
 - **`ANALYSIS_SUMMARY.md`** - This executive summary
 
-## 🔬 Methodology Highlights
+## Methodology Highlights
 
 ### Data Cleaning
 - Handled multiple responses in single cells
@@ -58,7 +58,7 @@ Complete quantitative analysis of 127 survey responses examining social media pr
 - Statistical annotations on key charts
 - Consistent formatting across all figures
 
-## 🎯 Key Insights
+## Key Insights
 
 ### 1. High Privacy Awareness
 Nearly 3 in 4 young users believe they're under surveillance - contradicting assumptions about generational privacy indifference.
@@ -71,28 +71,3 @@ Strong trend (p = .088) between privacy concerns and platform deletion/reduction
 
 ### 4. Age Doesn't Predict Worry
 No age-related differences in privacy concerns within this young demographic.
-
-## 📋 Academic Standards Met
-
-- ✅ APA statistical reporting format
-- ✅ Effect size reporting (Cramer's V)
-- ✅ Proper hypothesis testing procedures
-- ✅ Missing data transparency
-- ✅ Ethical considerations included
-- ✅ Study limitations acknowledged
-- ✅ Policy recommendations provided
-
-## 🚀 Reproducibility
-
-The entire analysis can be reproduced by running:
-```bash
-python analysis_notebook.py
-```
-
-All code is well-documented with clear variable mappings and processing steps.
-
-## 📍 Location
-All files are saved in: `/Users/nishantrajsharan/Desktop/survey_analysis/`
-
-## 🎉 Project Status: **COMPLETE**
-All requested deliverables have been created with academic rigor, statistical precision, and publication-quality presentation.
