@@ -1,0 +1,128 @@
+surveillance_perception,surveillance_perception_coded,worry_selling,worry_selling_coded,worry_selling_clean,read_policies,read_policies_coded,read_policies_clean,delete_intention,delete_intention_coded,govt_surveillance_right,govt_surveillance_coded,govt_surveillance_clean,age,age_group,gender,gender_clean
+Yes,2,Very Worried,4,Very Worried,"No, not really",,No,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,Below 18,< 18,Male,Male
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,24 to 34,25-34,Female,Female
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,They shouldn’t,,They shouldn’t,45 to 54,45-54,Female,Female
+Yes,2,Extremely worried/tensed,5,Extremely worried/tensed,"No, not really",,No,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,Below 18,< 18,Female,Female
+Yes,2,Extremely worried/tensed,5,Extremely worried/tensed,"No, not really",,No,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,Below 18,< 18,Male,Male
+Yes,2,Partially worried,2,Partially worried,"Yes, occasionally",,Yes,"Yes, I’m considering it",,They must,3.0,They must,24 to 34,25-34,Female,Female
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,I’m unsure,,Maybe they should,2.0,Maybe they should,24 to 34,25-34,Female,Female
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,Below 18,< 18,Male,Male
+No,1,Not worried at all,1,Not worried at all,"No, not really",,No,"Yes, I have done so",4.0,They must,3.0,They must,18 to 24,18-24,Female,Female
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,Below 18,< 18,Male,Male
+No,1,Partially worried,2,Partially worried,"Yes, frequently",,Yes,"Yes, I’m considering it",,They must,3.0,They must,Below 18,< 18,Female,Female
+No,1,Worried,3,Worried,"No, not really",,No,I’m unsure,,Maybe they should,2.0,Maybe they should,Below 18,< 18,Female,Female
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Male,Male
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"No, I wouldn’t",,They shouldn’t,,They shouldn’t,35 to 44,35-44,Male,Male
+No,1,Partially worried,2,Partially worried,"No, not really",,No,I’m unsure,,Maybe they should,2.0,Maybe they should,Below 18,< 18,Female,Female
+Yes,2,Worried,3,Worried,"No, not really",,No,"Yes, I’m considering it",,They must,3.0,They must,35 to 44,35-44,Female,Female
+Yes,2,Extremely worried/tensed,5,Extremely worried/tensed,"Yes, frequently, Yes, occasionally, No, not really",,Yes,"Yes, I have done so",4.0,They must,3.0,They must,18 to 24,18-24,Female,Female
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,Below 18,< 18,Female,Female
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+No,1,Not worried at all,1,Not worried at all,"No, not really",,No,"Yes, I’m considering it",,They must,3.0,They must,45 to 54,45-54,Agender,Other/Prefer not to say
+Yes,2,Very Worried,4,Very Worried,"Yes, frequently",,Yes,"Yes, I’m considering it",,They must,3.0,They must,18 to 24,18-24,Male,Male
+Yes,2,Worried,3,Worried,"No, not really",,No,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+Yes,2,Extremely worried/tensed,5,Extremely worried/tensed,"No, not really",,No,"Yes, I have done so",4.0,They shouldn’t,,They shouldn’t,Above 64,65+,"Genderqueer or non-binary, Agender",Other/Prefer not to say
+No,1,Not worried at all,1,Not worried at all,"Yes, occasionally",,Yes,I’m unsure,,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Male,Male
+Yes,2,Not worried at all,1,Not worried at all,"Yes, frequently",,Yes,I’m unsure,,Maybe they should,2.0,Maybe they should,Below 18,< 18,Male,Male
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,They shouldn’t,,They shouldn’t,Below 18,< 18,Male,Male
+Yes,2,Partially worried,2,Partially worried,"Yes, occasionally",,Yes,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+Yes,2,Not worried at all,1,Not worried at all,"Yes, frequently",,Yes,"No, I wouldn’t",,They must,3.0,They must,18 to 24,18-24,Female,Female
+No,1,Worried,3,Worried,"No, not really",,No,"Yes, I’m considering it",,They shouldn’t,,They shouldn’t,24 to 34,25-34,Female,Female
+No,1,Worried,3,Worried,"Yes, occasionally",,Yes,"No, I wouldn’t",,Maybe they should,2.0,Maybe they should,55 to 64,55-64,Female,Female
+No,1,Partially worried,2,Partially worried,"No, not really",,No,I’m unsure,,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+No,1,Not worried at all,1,Not worried at all,"Yes, frequently",,Yes,I’m unsure,,Maybe they should,2.0,Maybe they should,24 to 34,25-34,Male,Male
+Yes,2,Partially worried,2,Partially worried,"Yes, occasionally",,Yes,"Yes, I’m considering it",,They must,3.0,They must,18 to 24,18-24,Female,Female
+No,1,Not worried at all,1,Not worried at all,"No, not really",,No,I’m unsure,,They must,3.0,They must,Below 18,< 18,Female,Female
+Yes,2,Partially worried,2,Partially worried,I am not sure,2.0,I am not sure,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Male,Male
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,I’m unsure,,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Male,Male
+Yes,2,Not worried at all,1,Not worried at all,"No, not really",,No,"No, I wouldn’t",,"They shouldn’t, Maybe they should",,They shouldn’t,18 to 24,18-24,Male,Male
+Yes,2,Partially worried,2,Partially worried,"Yes, occasionally",,Yes,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,Below 18,< 18,Male,Male
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,35 to 44,35-44,Male,Male
+No,1,Not worried at all,1,Not worried at all,I am not sure,2.0,I am not sure,"Yes, I’m considering it",,They must,3.0,They must,Below 18,< 18,Male,Male
+No,1,Partially worried,2,Partially worried,"Yes, occasionally",,Yes,"No, I wouldn’t",,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+Yes,2,Partially worried,2,Partially worried,"Yes, frequently",,Yes,"Yes, I have done so",4.0,They shouldn’t,,They shouldn’t,Below 18,< 18,Male,Male
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,They must,3.0,They must,24 to 34,25-34,Male,Male
+No,1,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,Below 18,< 18,Female,Female
+Yes,2,"Worried, Partially worried",3,Worried,"Yes, occasionally",,Yes,I’m unsure,,They must,3.0,They must,18 to 24,18-24,Male,Male
+No,1,Worried,3,Worried,"No, not really",,No,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,24 to 34,25-34,Female,Female
+Yes,2,Worried,3,Worried,"Yes, occasionally",,Yes,I’m unsure,,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+Yes,2,Extremely worried/tensed,5,Extremely worried/tensed,"No, not really, I am not sure",,No,"No, I wouldn’t",,They shouldn’t,,They shouldn’t,18 to 24,18-24,Male,Male
+No,1,Not worried at all,1,Not worried at all,"Yes, occasionally",,Yes,"Yes, I’m considering it",,They shouldn’t,,They shouldn’t,24 to 34,25-34,Male,Male
+Yes,2,Partially worried,2,Partially worried,"Yes, frequently",,Yes,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Male,Male
+No,1,Worried,3,Worried,"Yes, occasionally",,Yes,"Yes, I have done so",4.0,They shouldn’t,,They shouldn’t,18 to 24,18-24,Female,Female
+Yes,2,Partially worried,2,Partially worried,"Yes, frequently",,Yes,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I have done so",4.0,They must,3.0,They must,18 to 24,18-24,Male,Male
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"No, I wouldn’t",,Maybe they should,2.0,Maybe they should,Below 18,< 18,Female,Female
+Yes,2,Partially worried,2,Partially worried,"Yes, frequently",,Yes,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+Yes,2,Extremely worried/tensed,5,Extremely worried/tensed,"No, not really",,No,"Yes, I have done so",4.0,They must,3.0,They must,18 to 24,18-24,Male,Male
+No,1,Worried,3,Worried,"Yes, occasionally",,Yes,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I have done so",4.0,They must,3.0,They must,18 to 24,18-24,Female,Female
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,They shouldn’t,,They shouldn’t,18 to 24,18-24,Female,Female
+Yes,2,Worried,3,Worried,"Yes, occasionally",,Yes,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+Yes,2,Worried,3,Worried,"No, not really",,No,"No, I wouldn’t",,Maybe they should,2.0,Maybe they should,Below 18,< 18,Male,Male
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,They shouldn’t,,They shouldn’t,Below 18,< 18,Male,Male
+Yes,2,Partially worried,2,Partially worried,"Yes, occasionally",,Yes,"Yes, I’m considering it",,They shouldn’t,,They shouldn’t,18 to 24,18-24,Female,Female
+No,1,Partially worried,2,Partially worried,"No, not really",,No,"No, I wouldn’t",,They shouldn’t,,They shouldn’t,45 to 54,45-54,Male,Male
+Yes,2,Partially worried,2,Partially worried,"Yes, frequently",,Yes,"Yes, I have done so",4.0,They shouldn’t,,They shouldn’t,Below 18,< 18,Female,Female
+Yes,2,Worried,3,Worried,I am not sure,2.0,I am not sure,"No, I wouldn’t",,They must,3.0,They must,Below 18,< 18,Female,Female
+Yes,2,Partially worried,2,Partially worried,"Yes, frequently",,Yes,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,24 to 34,25-34,Male,Male
+Yes,2,Worried,3,Worried,"No, not really",,No,I’m unsure,,They must,3.0,They must,35 to 44,35-44,Male,Male
+No,1,Not worried at all,1,Not worried at all,"Yes, occasionally",,Yes,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,Above 64,65+,Male,Male
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I have done so",4.0,They must,3.0,They must,18 to 24,18-24,Female,Female
+No,1,Worried,3,Worried,"Yes, occasionally",,Yes,I’m unsure,,Maybe they should,2.0,Maybe they should,Below 18,< 18,Female,Female
+No,1,Partially worried,2,Partially worried,"No, not really",,No,I’m unsure,,Maybe they should,2.0,Maybe they should,Below 18,< 18,Male,Male
+Yes,2,Partially worried,2,Partially worried,"Yes, occasionally",,Yes,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,55 to 64,55-64,Male,Male
+Yes,2,Partially worried,2,Partially worried,"Yes, occasionally",,Yes,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,Below 18,< 18,Female,Female
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,24 to 34,25-34,Male,Male
+Yes,2,Not worried at all,1,Not worried at all,"No, not really",,No,"Yes, I have done so",4.0,They shouldn’t,,They shouldn’t,24 to 34,25-34,Male,Male
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Male,Male
+No,1,Partially worried,2,Partially worried,"Yes, occasionally",,Yes,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+Yes,2,Partially worried,2,Partially worried,"Yes, occasionally",,Yes,"Yes, I’m considering it",,They must,3.0,They must,18 to 24,18-24,Male,Male
+Yes,2,Not worried at all,1,Not worried at all,"No, not really",,No,"No, I wouldn’t",,They shouldn’t,,They shouldn’t,24 to 34,25-34,Female,Female
+Yes,2,Extremely worried/tensed,5,Extremely worried/tensed,"No, not really",,No,"Yes, I have done so",4.0,They must,3.0,They must,Below 18,< 18,Female,Female
+Yes,2,Extremely worried/tensed,5,Extremely worried/tensed,"No, not really",,No,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,Below 18,< 18,Male,Male
+Yes,2,Partially worried,2,Partially worried,"Yes, occasionally",,Yes,"Yes, I’m considering it",,"They shouldn’t, Maybe they should",,They shouldn’t,18 to 24,18-24,Female,Female
+Yes,2,Worried,3,Worried,"No, not really",,No,"Yes, I have done so",4.0,They must,3.0,They must,24 to 34,25-34,Male,Male
+No,1,Worried,3,Worried,"Yes, frequently",,Yes,"Yes, I’m considering it",,They shouldn’t,,They shouldn’t,Below 18,< 18,Female,Female
+Yes,2,Partially worried,2,Partially worried,I am not sure,2.0,I am not sure,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Male,Male
+Yes,2,Not worried at all,1,Not worried at all,"No, not really",,No,"No, I wouldn’t",,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Male,Male
+No,1,Not worried at all,1,Not worried at all,"No, not really",,No,I’m unsure,,They shouldn’t,,They shouldn’t,Above 64,65+,Genderqueer or non-binary,Other/Prefer not to say
+Yes,2,Worried,3,Worried,"No, not really",,No,I’m unsure,,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Male,Male
+Yes,2,Worried,3,Worried,"Yes, occasionally",,Yes,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,Below 18,< 18,Female,Female
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"No, I wouldn’t",,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Male,Male
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,Below 18,< 18,Male,Male
+Yes,2,Not worried at all,1,Not worried at all,I am not sure,2.0,I am not sure,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,35 to 44,35-44,Male,Male
+Yes,2,Not worried at all,1,Not worried at all,I am not sure,2.0,I am not sure,I’m unsure,,They must,3.0,They must,24 to 34,25-34,Male,Male
+Yes,2,Worried,3,Worried,"Yes, occasionally",,Yes,"Yes, I have done so",4.0,"Maybe they should, They must",2.0,Maybe they should,Below 18,< 18,Female,Female
+No,1,Not worried at all,1,Not worried at all,"Yes, occasionally",,Yes,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+Yes,2,Partially worried,2,Partially worried,"Yes, occasionally",,Yes,I’m unsure,,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Male,Male
+No,1,Worried,3,Worried,"Yes, occasionally",,Yes,"No, I wouldn’t",,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+Yes,2,Extremely worried/tensed,5,Extremely worried/tensed,"Yes, frequently",,Yes,"No, I wouldn’t",,They must,3.0,They must,18 to 24,18-24,Male,Male
+Yes,2,Worried,3,Worried,"Yes, occasionally",,Yes,"Yes, I have done so",4.0,They shouldn’t,,They shouldn’t,Below 18,< 18,Male,Male
+Yes,2,"Partially worried, Very Worried",2,Partially worried,I am not sure,2.0,I am not sure,"No, I wouldn’t",,Maybe they should,2.0,Maybe they should,Below 18,< 18,Male,Male
+Yes,2,Partially worried,2,Partially worried,"Yes, frequently",,Yes,"Yes, I’m considering it",,They must,3.0,They must,Below 18,< 18,Male,Male
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,Below 18,< 18,Male,Male
+Yes,2,Worried,3,Worried,"No, not really",,No,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,Below 18,< 18,Male,Male
+No,1,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,Below 18,< 18,Male,Male
+No,1,Worried,3,Worried,I am not sure,2.0,I am not sure,I’m unsure,,They shouldn’t,,They shouldn’t,Below 18,< 18,Female,Female
+Yes,2,Very Worried,4,Very Worried,"Yes, occasionally",,Yes,"Yes, I have done so",4.0,They must,3.0,They must,18 to 24,18-24,Male,Male
+No,1,Not worried at all,1,Not worried at all,"No, not really",,No,"Yes, I’m considering it",,They shouldn’t,,They shouldn’t,Below 18,< 18,Male,Male
+No,1,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,They must,3.0,They must,Below 18,< 18,Female,Female
+No,1,Worried,3,Worried,"No, not really",,No,"Yes, I’m considering it",,They must,3.0,They must,Below 18,< 18,Female,Female
+Yes,2,Very Worried,4,Very Worried,"No, not really",,No,"Yes, I’m considering it",,They must,3.0,They must,Below 18,< 18,Female,Female
+No,1,Worried,3,Worried,"No, not really",,No,I’m unsure,,Maybe they should,2.0,Maybe they should,Below 18,< 18,Female,Female
+No,1,Partially worried,2,Partially worried,"No, not really",,No,I’m unsure,,Maybe they should,2.0,Maybe they should,Below 18,< 18,Male,Male
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Male,Male
+Yes,2,Worried,3,Worried,"No, not really",,No,"Yes, I’m considering it",,They must,3.0,They must,Below 18,< 18,Female,Female
+No,1,Worried,3,Worried,"No, not really",,No,"Yes, I’m considering it",,They shouldn’t,,They shouldn’t,Below 18,< 18,Female,Female
+Yes,2,Partially worried,2,Partially worried,"Yes, frequently",,Yes,"Yes, I’m considering it",,They must,3.0,They must,18 to 24,18-24,Female,Female
+Yes,2,Extremely worried/tensed,5,Extremely worried/tensed,"Yes, frequently",,Yes,"Yes, I have done so",4.0,They must,3.0,They must,24 to 34,25-34,Male,Male
+Yes,2,Partially worried,2,Partially worried,I am not sure,2.0,I am not sure,"Yes, I have done so",4.0,Maybe they should,2.0,Maybe they should,35 to 44,35-44,Male,Male
+Yes,2,Partially worried,2,Partially worried,"Yes, occasionally",,Yes,"No, I wouldn’t",,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Male,Male
+Yes,2,Partially worried,2,Partially worried,"Yes, occasionally",,Yes,"Yes, I’m considering it",,They shouldn’t,,They shouldn’t,18 to 24,18-24,Female,Female
+Yes,2,Partially worried,2,Partially worried,I am not sure,2.0,I am not sure,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+Yes,2,Partially worried,2,Partially worried,"No, not really",,No,I’m unsure,,Maybe they should,2.0,Maybe they should,18 to 24,18-24,Female,Female
+Yes,2,Not worried at all,1,Not worried at all,I am not sure,2.0,I am not sure,"No, I wouldn’t",,They shouldn’t,,They shouldn’t,Below 18,< 18,Male,Male
+Yes,2,Not worried at all,1,Not worried at all,"Yes, occasionally",,Yes,"Yes, I’m considering it",,Maybe they should,2.0,Maybe they should,Below 18,< 18,Female,Female
