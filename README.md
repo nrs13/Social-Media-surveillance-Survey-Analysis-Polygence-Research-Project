@@ -106,8 +106,6 @@ All analyses are fully reproducible through the main script (`analysis_notebook.
 This analysis adheres to APA statistical reporting standards and incorporates:
 - Comprehensive effect size reporting using Cramer's V
 - Systematic missing data assessment
-- Ethical considerations and limitations
-- Evidence-based policy recommendations
 
 ## License
 This project is licensed under the MIT License - see below for details:
